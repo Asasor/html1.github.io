@@ -1,2 +1,2 @@
 # html1.github.io
-html SchoolWork Y10
+go to https://asasor.github.io/html1.github.io/htmlFile1.html in order to view file
